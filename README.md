@@ -1,8 +1,3 @@
 - 👋 Hi, I’m @CymuYae
 - 👀 I’m interested in Web design, miniprogram and game
-- 🌱 I’m currently learning HTNL5, CSS3, vue, uniapp
-
-<!---
-CymuYae/CymuYae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning JS, HTML, CSS
